@@ -8,7 +8,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/hanwen/go-fuse/fuse/nodefs"
 	"github.com/stretchr/testify/assert"
-	"github.com/zach-klippenstein/adbfs/internal/cli"
+	"github.com/mheyse/adbfs/internal/cli"
 	"github.com/zach-klippenstein/goadb"
 )
 
